@@ -64,7 +64,7 @@ module.exports = {
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
+        .setURL('https://discord.gg/QAzKnnDxkx')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
