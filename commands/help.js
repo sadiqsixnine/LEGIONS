@@ -69,7 +69,7 @@ module.exports = {
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://replit.com/@BEASTGAMERS1?tab=community')
+        .setURL('https://replit.com/@xnxxsadiqsakib6/Last-Bot')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
