@@ -56,7 +56,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1150827819547504741/1168917372267151370/standard.gif?ex=65538222&is=65410d22&hm=b4994392f44679da41fc9304eb69deaa3769e136057556deec0db69ae8d33a97&')
+       .setImage('https://cdn.discordapp.com/attachments/1192515892538523702/1208285886492581938/standard.gif?ex=65e2baec&is=65d045ec&hm=447feb2bfdf0718878b31eefdc659f365ac159064378e8c3d04d6919c0000600&')
       const button1 = new ButtonBuilder()
         .setLabel('Instagram')
         .setURL('https://www.instagram.com/sadiq.sixnine69')
